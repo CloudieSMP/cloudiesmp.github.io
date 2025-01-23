@@ -1,0 +1,12 @@
+# _data/navigation.yml
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Rules"
+    url: /rules/
+  - title: "Status"
+    url: /status/
+  - title: "Contact"
+    url: /contact/

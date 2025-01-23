@@ -1,0 +1,21 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  
+    img {
+      max-width: 300px;
+      border-radius: 5px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    }
+} 
+body {
+background-image: url('/assets/images/grass_block.png'); /* Minecraft grass block */
+background-size: cover;
+}
+
+h1, h2, h3 {
+font-family: 'Press Start 2P', cursive; /* Retro pixel font */
+color: #4CAF50; /* Green, like grass */
+}
