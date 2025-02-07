@@ -4,9 +4,13 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Events"
+    url: /events/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Rules"
     url: /rules/
   - title: "Status"
     url: /status/
-  - title: "Contact"
-    url: /contact/
+  - title: "Map"
+    url: https://map.cloudie.cloud/
