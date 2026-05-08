@@ -15,7 +15,7 @@ permalink: /
 
 ### Server
 
-- [**Discord: Invite**](https://discord.gg/UZDAMDJnrT)
+- [**Discord: Invite**](https://discord.gg/fgzMQxKnyQ)
 - **IP**: `cloudie.cloud`
 
 ---
